@@ -1,7 +1,7 @@
 # basic-hack
 
 this app is just to play arround with friends not for malicious use.
-The ".exe" files where made with pyinstaller and for some reasons 
+The ".exe" files can be made with pyinstaller but, for some reasons 
 dont work as good as the ".py" file.
 
 ## just trick someone into running it once.
